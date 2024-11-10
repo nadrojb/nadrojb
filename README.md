@@ -9,12 +9,4 @@ You can check out my work live on my portfolio or here on my pinned repositories
 
 Before transitioning into software development, I spent ten years in the Maritime Industry working on superyachts where I progressed from Junior Deckhand to Chief Officer. Along the way, I gained multiple qualifications and developed key skills in leadership, teamwork, discipline and problem-solving, qualities that now shape my approach to collaborating in agile environments and continuous learning.</p>
 
-<div id="badges">
-  <a href="www.linkedin.com/in/jordanmbrewer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<div id="badges">
-  <a href="https://nadrojb.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-E13D85
-    " alt="Portfolio button"/>
-  </a>
+<--- Links to LinkedIn and Portfolio
