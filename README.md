@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img src="./img/Full-Stack Developer.png">
-<p>I'm a Full-Stack Developer specialising in JavaScript, REACT, PHP (OOP), SQL, and Tailwind. Over the coming weeks, I will be working with Jest, Node, Express, MongoDB, Slim, Typescript, and RESTful APIs.
+<p>I'm a Full-Stack Developer specialising in JavaScript, REACT, PHP (OOP), SQL, and Tailwind. Over the coming weeks, I will be working with Jest, Node, Express, MongoDB, Typescript, and RESTful APIs.
 
 I am currently enrolled on iO Academy’s Full-Stack Track, working on both individual and team projects while applying agile methodologies. As part of a scrum team, I actively participate in sprint planning, daily stand-ups, and retrospectives. We regularly practice peer programming and use Git for version control. My current interests include PHP, Slim and REACT.
 
