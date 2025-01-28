@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="./img/Full-Stack Developer.png">
+<img src="./img/github-banner.png">
 <p>I'm a Full-Stack Developer specialising in JavaScript, React, Node.js (Express), PHP, Laravel, Slim, MySQL, MongoDB, Tailwind, Git for version control and building RESTful APIs. 
 
 I'm currently working on projects with React, TypeScript and Laravel
